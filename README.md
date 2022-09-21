@@ -1,5 +1,6 @@
 ### Hello Microverse
 
+    This project is just for Linter learning purpose
 
 ### Built With
 
